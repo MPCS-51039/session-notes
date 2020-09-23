@@ -116,4 +116,8 @@
 
 ## React Native
 
-[Here is a curated list](https://github.com/ReactNativeNews/React-Native-Apps), according to its authors, but we have not personally vetted this list. It is possible these apps do not work as advertised, so please check that before choosing one of these.
+[Here is a curated list of open-source apps](https://github.com/ReactNativeNews/React-Native-Apps), according to its authors, but we have not personally vetted this list. It is possible these apps do not work as advertised, so please check that before choosing one of these.
+
+## Flutter
+
+[Here is, again, an un-vetted list](https://www.cleveroad.com/blog/open-source-flutter-apps). We have not checked whether these apps work, and not all of them have links to the source code (which you will need to use an app for your project).
