@@ -118,6 +118,8 @@
 
 [Here is a curated list of open-source apps](https://github.com/ReactNativeNews/React-Native-Apps), according to its authors, but we have not personally vetted this list. It is possible these apps do not work as advertised, so please check that before choosing one of these.
 
+[Here is one React Native open source app that definitely works](https://github.com/zooniverse/mobile), because if it doesn't I am getting fired. It is an app that allows volunteers like you and me to contribute to astronomy, earth science, and biology research by helping the researchers identify galaxies, kelp, bacteria, and wild animals in images.
+
 ## Flutter
 
 [Here is, again, an un-vetted list](https://www.cleveroad.com/blog/open-source-flutter-apps). We have not checked whether these apps work, and not all of them have links to the source code (which you will need to use an app for your project).
