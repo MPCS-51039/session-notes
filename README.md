@@ -15,9 +15,9 @@ For the session notes of Autumn 2020!
 
 [Session 7 Notes](https://docs.google.com/document/d/1yJMvxcj-BST_kzSgCDw1cTYfsIfltJ2fKifM3MjN5B4)
 
-=====NOTES NOT GUARANTEED TO BE FINALIZED BEYOND THIS POINT=====
-
 [Session 8 Notes](https://docs.google.com/document/d/19uQP6DagxkL5zNNuaLx6EJSDSSe4JTNEuaemzRbxaMY)
+
+=====NOTES NOT GUARANTEED TO BE FINALIZED BEYOND THIS POINT=====
 
 [Session 9 Notes](https://docs.google.com/document/d/1VjeHbV1smWbN9qpgnOPN4xW51Gj_8whOfXz_l1BE6I8)
 
