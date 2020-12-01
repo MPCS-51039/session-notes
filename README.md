@@ -1,4 +1,10 @@
- # Session Notes
+ # Welcome to Mobile Software Development! 
+ 
+ [Syllabus](https://docs.google.com/document/d/1UewwPa4OQL8vk319_2urnHLICw6OWC78Jn_7ILOR0Qo/edit)
+ 
+ [Requirements for the Projects](https://docs.google.com/document/d/1UewwPa4OQL8vk319_2urnHLICw6OWC78Jn_7ILOR0Qo/edit)
+ 
+ ## Session Notes
 
 [Session 1 Notes](https://docs.google.com/document/d/1yeyLvX44yxwq9QAp1AE81MRJ8Vv5g7I6wDg_U-PlHcU)
 
