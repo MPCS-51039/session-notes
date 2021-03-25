@@ -1,6 +1,6 @@
  # Welcome to Mobile Software Development! 
  
- [Syllabus](https://docs.google.com/document/d/1UewwPa4OQL8vk319_2urnHLICw6OWC78Jn_7ILOR0Qo/edit)
+ [Syllabus](https://docs.google.com/document/d/1CmYlAKeizQF4ZFfUcAYaaJTH9oKkzPOiFnYm0mmoT-Q/edit#)
  
  [Requirements for the Projects](https://docs.google.com/document/d/1UewwPa4OQL8vk319_2urnHLICw6OWC78Jn_7ILOR0Qo/edit)
  
